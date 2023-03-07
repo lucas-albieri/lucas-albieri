@@ -14,7 +14,7 @@ I'm a 19 year old developer and I've been developing since I was 16. I love to c
 * ⚡  I love sports and my favorite is football
 
 <a href="https://www.github.com/lucas-albieri" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+src="https://img.shields.io/github/followers/lucas-albieri?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills
 
@@ -32,13 +32,15 @@ src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-th
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/661437172699889684" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/guilhermo-masid-494677b8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13367336/guilhermo-masid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@gmasid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<a href="https://www.github.com/lucas-albieri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lucas-albieri/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/lucas-albieri-574457217" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/peguimasid"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=peguimasid&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
+<a href="http://www.github.com/lucas-albieri"><img src="https://github-readme-stats-lucas-albieri.vercel.app/api?username=lucas-albieri&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="lucas-albieri's GitHub stats" /></a>
 
 <a href="http://www.github.com/peguimasid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=peguimasid&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
