@@ -26,7 +26,6 @@ src="https://img.shields.io/github/followers/lucas-albieri?logo=github&style=for
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Chakra UI</title><path d="M12 0C5.352 0 0 5.352 0 12s5.352 12 12 12 12-5.352 12-12S18.648 0 12 0zm2.8 4.333c.13-.004.248.136.171.278l-3.044 5.58a.187.187 0 00.164.276h5.26c.17 0 .252.207.128.323l-9.22 8.605c-.165.154-.41-.063-.278-.246l4.364-6.021a.187.187 0 00-.151-.296H6.627a.187.187 0 01-.131-.32l8.18-8.123a.182.182 0 01.125-.056z"/></svg></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
   
 
@@ -47,4 +46,4 @@ src="https://img.shields.io/github/followers/lucas-albieri?logo=github&style=for
 
 <a href="http://www.github.com/lucas-albieri"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=lucas-albieri&bg_color=171717&color=ffffff&line=7159c1&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/lucas-albieri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-albieri&layout=compact&title_color=7159c1&hide=css,objective-c,html&text_color=ffffff&icon_color=7159c1&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/lucas-albieri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-albieri&layout=compact&title_color=fff&text_color=ffffff&icon_color=fff&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
