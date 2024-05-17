@@ -4,7 +4,7 @@ Hi 👋 My name is Lucas
 FrontEnd Software Developer
 -----------------------------
 
-I'm a 19 year old developer and I've been developing since I was 16. I love to code and figure out how to solve deep problems using cutting edge technology. My main focus is front-end development, making applications that impact the lives of thousands of users.
+I'm a 20 year old developer and I've been developing since I was 16. I love to code and figure out how to solve deep problems using cutting edge technology. My main focus is front-end development, making applications that impact the lives of thousands of users.
 
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [lucas.albisantos55@gmail.com](mailto:lucas.albisantos55@gmail.com)
