@@ -69,19 +69,7 @@ More projects on my GitHub: [https://github.com/lucas-albieri](https://github.co
 
 <!-- contribution calendar (compact) -->
 
-<p align="center">
-  <!-- ghchart shows an overview heatmap (simple and reliable) -->
-  <img alt="Contribution Graph" src="https://ghchart.rshah.org/lucas-albieri" />
-</p>
-
-<!-- activity graph (more detailed) -->
-
-<p align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=lucas-albieri&theme=react-dark&area=true&hide_border=true" />
-</p>
-
-> Note: If any of the external image services (streak, trophy, activity graph) fail to load on GitHub, try opening the image URL directly — some services have intermittent downtime. I added dark-themed versions and fallbacks to reduce visual breakage.
-
+### Badges <b>My GitHub Stats</b> <a href="https://github.com/lucas-albieri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-albieri&layout=compact&title_color=fff&text_color=ffffff&icon_color=fff&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 ---
 
 ## Socials
