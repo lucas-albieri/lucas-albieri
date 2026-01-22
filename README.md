@@ -65,7 +65,7 @@ I build **fast**, **accessible**, and **easy-to-use** web apps. I prioritize rea
   <br/><br/>
   
   <!-- Snake Animation (Static Image) -->
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/snake.svg" alt="snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/lucas-albieri/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/snake.svg" alt="snake animation" width="100%" />
 </div>
 
 ---
