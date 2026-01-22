@@ -51,7 +51,7 @@ I build **fast**, **accessible**, and **easy-to-use** web apps. I prioritize rea
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Stats Card (Layout ajustado) -->
+  <!-- Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=lucas-albieri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
   <!-- Top Langs -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-albieri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
@@ -59,8 +59,13 @@ I build **fast**, **accessible**, and **easy-to-use** web apps. I prioritize rea
 
 <div align="center">
   <br/>
-  <!-- Streak Graph (Link corrigido para demolab) -->
+  <!-- Streak Graph -->
   <img src="https://streak-stats.demolab.com?user=lucas-albieri&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
+  
+  <br/><br/>
+  
+  <!-- Snake Animation (Static Image) -->
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/snake.svg" alt="snake animation" width="100%" />
 </div>
 
 ---
