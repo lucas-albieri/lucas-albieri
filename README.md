@@ -51,7 +51,7 @@ I build **fast**, **accessible**, and **easy-to-use** web apps. I prioritize rea
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Stats Card -->
+  <!-- Stats Card (Layout ajustado) -->
   <img src="https://github-readme-stats.vercel.app/api?username=lucas-albieri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
   <!-- Top Langs -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-albieri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
@@ -59,14 +59,8 @@ I build **fast**, **accessible**, and **easy-to-use** web apps. I prioritize rea
 
 <div align="center">
   <br/>
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-albieri&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
-</div>
-
-<!-- Trophy Section (Optional - remove if it breaks often) -->
-<div align="center">
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=lucas-albieri&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true" alt="trophy" />
+  <!-- Streak Graph (Link corrigido para demolab) -->
+  <img src="https://streak-stats.demolab.com?user=lucas-albieri&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
 </div>
 
 ---
