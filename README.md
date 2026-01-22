@@ -57,17 +57,6 @@ I build **fast**, **accessible**, and **easy-to-use** web apps. I prioritize rea
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-albieri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
 </div>
 
-<div align="center">
-  <br/>
-  <!-- Streak Graph -->
-  <img src="https://streak-stats.demolab.com?user=lucas-albieri&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
-  
-  <br/><br/>
-  
-  <!-- Snake Animation (Static Image) -->
-  <img src="https://raw.githubusercontent.com/lucas-albieri/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/snake.svg" alt="snake animation" width="100%" />
-</div>
-
 ---
 
 ## 📂 Featured Projects
