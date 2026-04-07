@@ -63,6 +63,7 @@ I build **fast**, **accessible**, and **easy-to-use** web apps. I prioritize rea
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
+| **[OctoBooks](https://github.com/lucas-albieri/my-books)** | A book management system, reading goals, your virtual library. | `Next.js` `Nest.js` `Typescript` |
 | **[MAX](https://github.com/lucas-albieri/max)** | Streaming-style front-end project focused on UI, performance, and component organization. | `React` `Next.js` |
 | **[Pokedex](https://github.com/lucas-albieri/pokedex)** | Interactive Pokedex with clean layout and dynamic data fetching. | `Next.js` `API` |
 
